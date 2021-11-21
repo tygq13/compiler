@@ -1,2 +1,2 @@
 # compiler
-To honour all the emotional hardship during the semester
+To honour all the emotional hardship in completing the projects
